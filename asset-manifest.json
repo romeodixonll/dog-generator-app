@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dog-generator-app/static/css/main.7c2350f0.css",
+    "main.css": "/dog-generator-app/static/css/main.9da92311.css",
     "main.js": "/dog-generator-app/static/js/main.17b9e9e2.js",
     "static/js/787.2725a658.chunk.js": "/dog-generator-app/static/js/787.2725a658.chunk.js",
     "index.html": "/dog-generator-app/index.html",
-    "main.7c2350f0.css.map": "/dog-generator-app/static/css/main.7c2350f0.css.map",
+    "main.9da92311.css.map": "/dog-generator-app/static/css/main.9da92311.css.map",
     "main.17b9e9e2.js.map": "/dog-generator-app/static/js/main.17b9e9e2.js.map",
     "787.2725a658.chunk.js.map": "/dog-generator-app/static/js/787.2725a658.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c2350f0.css",
+    "static/css/main.9da92311.css",
     "static/js/main.17b9e9e2.js"
   ]
 }
