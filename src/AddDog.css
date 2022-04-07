@@ -1,0 +1,46 @@
+
+.addDog__Info > form {
+   
+    margin-bottom: 425px;
+   
+}
+.addDog__Info > form > input {
+    display: flex;
+    flex-direction: column;
+    
+    outline-width: 0;
+    padding: 10px;
+    /* width: 250px; */
+    font-size:11px;
+    /* padding:4px 2px; */
+    border:solid 1px #aacfe4;
+    width:300px;
+    margin:2px 0 20px 10px;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    border-radius:10px;
+}
+
+.addDog__Info > form > select {
+    
+    outline-width: 0;
+    padding: 10px;
+    /* width: 250px; */
+    font-size:11px;
+    /* padding:4px 2px; */
+    border:solid 1px #aacfe4;
+    width:300px;
+    margin:2px 0 20px 10px;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    border-radius:10px
+}
+
+.addDog > h1{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.addDog{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
