@@ -12,9 +12,9 @@ function App() {
       <div className="app">
         <Header />
         <Switch>
-          <Route path="/edit/:id" component={EditDog} />
-          <Route path="/create" component={AddDog} />
-          <Route path="/" component={DogOutPut} exact={true} />
+          <Route path="/dog-generator-app/edit/:id" component={EditDog} />
+          <Route path="/dog-generator-app/create" component={AddDog} />
+          <Route path="/dog-generator-app" component={DogOutPut} exact={true} />
         </Switch>
 
         <Footer />

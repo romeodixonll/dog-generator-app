@@ -26,7 +26,7 @@ const DogInput = ({ id, name, breed, owner, size, description, photo }) => {
         </Button>
         <Link
           style={{ color: "inherit", textDecoration: "inherit" }}
-          to={`/edit/${id}`}
+          to={`/dog-generator-app/edit/${id}`}
         >
           <Button>Edit</Button>
         </Link>

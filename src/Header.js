@@ -43,12 +43,12 @@ console.log(randomDogName)
       });
       setFormState({});
     
-      history.push("/");
+      history.push("/dog-generator-app");
     }
   }, [formState]);
   return (
     <div className="header">
-      <Link to={"/"}>
+      <Link to={"/dog-generator-app"}>
         <img
           className="header__icon"
           src="https://t3.ftcdn.net/jpg/01/12/61/38/360_F_112613854_pw8ZkYdUo0zD4za7Fk1IcoXknuFNhdGM.jpg"
@@ -58,7 +58,7 @@ console.log(randomDogName)
       <div className="header__center">
         <Link
           style={{ color: "inherit", textDecoration: "inherit" }}
-          to={"/"}
+          to={"/dog-generator-app"}
         >
           <Button onClick={handleSubmit}>Random Dog Maker</Button>
         </Link>
@@ -66,7 +66,7 @@ console.log(randomDogName)
       <div className="header__right">
         <Link
           style={{ color: "inherit", textDecoration: "inherit" }}
-          to={"/create"}
+          to={"/dog-generator-app/create"}
         >
           <Button>Add New Dog</Button>
         </Link>

@@ -48,7 +48,7 @@ const EditDog = () => {
       setOwner("");
       setSize("");
       setDescription("");
-      history.push("/");
+      history.push("/dog-generator-app");
     }
   }, [formState]);
 
