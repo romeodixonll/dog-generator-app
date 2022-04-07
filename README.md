@@ -14,6 +14,9 @@ Dog Generator made with react
 
 https://romeodixonll.github.io/dog-generator-app/
 
+![homepage](https://user-images.githubusercontent.com/95494071/162213343-3eb0a075-2cf2-4e96-85f7-689415997724.JPG)
+![editpage](https://user-images.githubusercontent.com/95494071/162213360-ad1b28af-082f-4671-950f-6a1ff0128e19.JPG)
+![addpage](https://user-images.githubusercontent.com/95494071/162213368-fba2636e-62c4-40a5-a861-f68caeab583f.JPG)
 
 ## License
 MIT
