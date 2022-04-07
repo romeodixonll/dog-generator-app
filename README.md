@@ -2,17 +2,17 @@
 ![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-Portfolio made with React
+Dog Generator made with react
 
 ## Table of Contents 
-- [Portfolio](#portfolio)
+- [Site](#site)
 - [License](#license)
 - [Contributing](#Contributing)
 - [Questions](#Questions)
 
-## Portfolio
+## Site
 
-https://romeodixonll.github.io/React-Portfolio/
+https://romeodixonll.github.io/dog-generator-app/
 
 
 ## License
@@ -23,6 +23,6 @@ Info on license: https://opensource.org/licenses/MIT
 Contributors are welcome. Installation above.
 
 ## Questions 
-Email me at: romeodixonll@yahoo.com 
+Email me at: romeodixonll@yahoo.com </br>
 Find me on Github: https://github.com/romeodixonll
 
