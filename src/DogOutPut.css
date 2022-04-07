@@ -6,6 +6,7 @@
     display: flex;
     padding: 30px;
     flex-wrap: wrap;
+    
     justify-content: center;
     
 }
@@ -51,3 +52,25 @@
     margin-right: 10px;
     /* width: 250px; */
 }
+@media only screen and (max-width: 600px) {
+    .dogOutput__section{
+        display: flex;
+        padding: 30px;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        width: 300%;
+        
+    }
+  }
+  @media only screen and (max-width: 820px) {
+    .dogOutput__section{
+        display: flex;
+        padding: 30px;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        width: 300%;
+        
+    }
+  }

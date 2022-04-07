@@ -58,16 +58,19 @@ const EditDog = () => {
       <div className="editDog__Info">
         <form action="">
           <input
+          placeholder="Name of Dog"
             value={input}
             type="text"
             onChange={(e) => setInput(e.target.value)}
           />
           <input
+          placeholder="Breed"
             value={breed}
             type="text"
             onChange={(e) => setBreed(e.target.value)}
           />
           <input
+          placeholder="Owner"
             value={owner}
             type="text"
             onChange={(e) => setOwner(e.target.value)}
@@ -80,6 +83,7 @@ const EditDog = () => {
             <option value="XL">XL</option>
           </select>
           <input
+          placeholder="Description"
             value={description}
             type="text"
             onChange={(e) => setDescription(e.target.value)}

@@ -43,3 +43,17 @@
     width: 15vw;
     margin-right: 80px;
 }
+
+@media only screen and (max-width: 600px) {
+    .header__center{
+        display: flex;
+        align-items: center;
+        flex: 1;
+        max-width: fit-content;
+        padding: 10px;
+        height: 30px;
+        border: none;
+        border-radius: 0;
+    }
+  }
+  
