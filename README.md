@@ -11,9 +11,9 @@ Dog Generator made with react
 - [Questions](#Questions)
 
 ## Site
-Website Deployed </br>
+Website Deployed: </br></br>
 https://romeodixonll.github.io/dog-generator-app/
-</br>
+</br></br>
 Home Page
 ![homepage](https://user-images.githubusercontent.com/95494071/162213343-3eb0a075-2cf2-4e96-85f7-689415997724.JPG)
 
